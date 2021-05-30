@@ -2,9 +2,9 @@
 
 
 
-### Daniele Polotow Geraldo - [Data Scientist] 👋
+### Daniele Polotow - [Data Scientist] 👋
 
-## I am an biologist/researcher transitioning to Data Science. Wannabe programmer. Using statistics and code to understand the world. 17 years of experience with scientific research in Brazil and abroad. I love leveraging data-driven solutions that impact business and society!
+### I am an biologist/researcher transitioning to Data Science. Wannabe programmer. Using statistics and code to understand the world. 17 years of experience with scientific research in Brazil and abroad. I love leveraging data-driven solutions that impact business and society!
 
 - 📈 I’m currently studing and working in projects to improve my Data Science skills
 - 📊 I’m looking to collaborate with other Data Scientists and developers 
@@ -43,7 +43,7 @@ Repository containing portfolio of data science projects completed by me for aca
 Languages: English and Portuguese.
 
 - ### Machine Learning
-  - [Clustering the Big 5 Personolities](https://github.com/danielepolotow/Big5/blob/main/5%20Big%20-%20K-Means.ipynb): K-Means Clustering Modleing in Python with scikit-learn to classify test responses in groups. K-Means is an algorithm with unsupervised learning, which will group responses by similarity. The results allow us to make predictions to classify new data.
+  - [Clustering the Big 5 Personalities](https://github.com/danielepolotow/Big5/blob/main/5%20Big%20-%20K-Means.ipynb): K-Means Clustering Modleing in Python with scikit-learn to classify test responses in groups. K-Means is an algorithm with unsupervised learning, which will group responses by similarity. The results allow us to make predictions to classify new data.
 
 
 - ### Data Visualization and Exploration
