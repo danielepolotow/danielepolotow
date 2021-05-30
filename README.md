@@ -36,8 +36,15 @@
 <br />
 <br />
 
-# Projetcs
+# Data Science Portfolio
+
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter Notebooks.
+
+Languages: English and Portuguese.
+
+- ### Machine Learning
+  - [Clustering the Big 5 Personolities](https://github.com/danielepolotow/Big5/blob/main/5%20Big%20-%20K-Means.ipynb): K-Means Clustering Modleing in Python with scikit-learn to classify test responses in groups. K-Means is an algorithm with unsupervised learning, which will group responses by similarity. The results allow us to make predictions to classify new data.
 
 ## Data Science
 
-
+Cinco Traços de Personalidade (OCEAN)
