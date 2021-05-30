@@ -45,6 +45,7 @@ Languages: English and Portuguese.
 - ### Machine Learning
   - [Clustering the Big 5 Personolities](https://github.com/danielepolotow/Big5/blob/main/5%20Big%20-%20K-Means.ipynb): K-Means Clustering Modleing in Python with scikit-learn to classify test responses in groups. K-Means is an algorithm with unsupervised learning, which will group responses by similarity. The results allow us to make predictions to classify new data.
 
-## Data Science
 
-Cinco Traços de Personalidade (OCEAN)
+- ### Data Visualization and Exploration
+  - [The famous Titanic Dataset](https://github.com/danielepolotow/titanic/blob/main/Titanic%20an%C3%A1lise%20explorat%C3%B3ria%20de%20dados.ipynb): In this notebook, we will analyze the famous Titanic data set, available on Kaggle. The dataset is intended for supervised machine learning, but we'll just do some exploratory analysis here.
+  - [NBA data with nba_api](https://github.com/danielepolotow/NBA/blob/main/Dados%20NBA%20-%20m%C3%B3dulo%20nba_api%20com%20Python.ipynb): Basic steps to access data in this API.
