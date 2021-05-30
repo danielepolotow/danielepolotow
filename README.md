@@ -38,14 +38,13 @@
 
 ## Data Science Portfolio
 
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter Notebooks.
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Coded in Python and presented as Jupyter Notebooks.
 
 Languages: English and Portuguese.
 
 - ### Machine Learning
-  - [Clustering the Big 5 Personalities](https://github.com/danielepolotow/Big5/blob/main/5%20Big%20-%20K-Means.ipynb): K-Means Clustering Modleing in Python with scikit-learn to classify test responses in groups. K-Means is an algorithm with unsupervised learning, which will group responses by similarity. The results allow us to make predictions to classify new data.
-
+  - [Clustering the Big 5 Personalities](https://github.com/danielepolotow/Big5/blob/main/5%20Big%20-%20K-Means.ipynb): In this notebook I present a model with K-Means Clustering using Python and Scikit-learn to classify test responses in groups. K-Means is an algorithm with unsupervised learning, which will group responses by similarity. The results allow us to make predictions and classify new data. Last, I created an interface to interact with users and get the answers to the test and the predictions from the model.
 
 - ### Data Visualization and Exploration
   - [The famous Titanic Dataset](https://github.com/danielepolotow/titanic/blob/main/Titanic%20an%C3%A1lise%20explorat%C3%B3ria%20de%20dados.ipynb): In this notebook, we will analyze the famous Titanic data set, available on Kaggle. The dataset is intended for supervised machine learning, but we'll just do some exploratory analysis here.
-  - [NBA data with nba_api](https://github.com/danielepolotow/NBA/blob/main/Dados%20NBA%20-%20m%C3%B3dulo%20nba_api%20com%20Python.ipynb): Basic steps to access data in this API.
+  - [NBA data with nba_api](https://github.com/danielepolotow/NBA/blob/main/Dados%20NBA%20-%20m%C3%B3dulo%20nba_api%20com%20Python.ipynb): Basic steps to access data in this huge API.
