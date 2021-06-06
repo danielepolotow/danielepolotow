@@ -4,9 +4,9 @@
 
 ### Daniele Polotow - [Data Scientist] 👋
 
-### I am an biologist/researcher transitioning to Data Science. Wannabe programmer. Using statistics and code to understand the world. 17 years of experience with scientific research in Brazil and abroad. I love leveraging data-driven solutions that impact business and society!
+### Data Scientist. Graduated as biologist and working as researcher. Python programmer. Using statistics and code to understand the world. Eight years of experience with scientific research in Brazil and abroad. I love leveraging data-driven solutions that impact business and society!
 
-- 📈 I’m currently studing and working in projects to improve my Data Science skills
+- 📈 I’m currently working in projects to improve my Data Science skills
 - 📊 I’m looking to collaborate with other Data Scientists and developers 
 
 ### Connect with me:
