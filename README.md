@@ -49,4 +49,5 @@ Languages: English and Portuguese.
 
 - ### Data Visualization and Exploration
   - [The famous Titanic Dataset](https://github.com/danielepolotow/titanic/blob/main/Titanic%20an%C3%A1lise%20explorat%C3%B3ria%20de%20dados.ipynb): In this notebook, we will analyze the famous Titanic data set, available on Kaggle. The dataset is intended for supervised machine learning, but we'll just do some exploratory analysis here.
+  - [Cars Dataset](https://github.com/danielepolotow/Cars-Dataset): Data visualization and exploration of this famous dataset for cars from the 70's and 80's and their associated price & features.
   - [NBA data with nba_api](https://github.com/danielepolotow/NBA/blob/main/Dados%20NBA%20-%20m%C3%B3dulo%20nba_api%20com%20Python.ipynb): Basic steps to access data in this huge API.
