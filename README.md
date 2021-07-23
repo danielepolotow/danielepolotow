@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/daniele-polotow-089b27179/)
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/daniele-polotow-geraldo-089b27179/)
 
 
 
