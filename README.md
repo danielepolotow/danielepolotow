@@ -4,16 +4,11 @@
 
 ### Daniele Polotow - [Data Scientist] 👋
 
-### Data Scientist. Graduated as biologist and working as researcher. Python programmer. Using statistics and code to understand the world. Eight years of experience with scientific research in Brazil and abroad. I love leveraging data-driven solutions that impact business and society!
-
-- 📈 I’m currently working in projects to improve my Data Science skills
-- 📊 I’m looking to collaborate with other Data Scientists and developers 
+### Data Scientist @ Gupy - Python, Machine Learning, Statistics
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/daniele-polotow-geraldo-089b27179/)
-
-
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/daniele-polotow-geraldo/) 
 
 <br />
 
