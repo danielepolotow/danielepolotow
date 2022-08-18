@@ -5,6 +5,7 @@
 ### Daniele Polotow - [Data Scientist] 👋
 
 ### Data Scientist @ Gupy - Python, Machine Learning, Statistics
+Daniele works as a data scientist, applying natural language processing techniques to feed classification models, aiming to develop efficient applications. She has a strong statistical training and a passion for data visualization and storytelling. With a background in research, she worked mostly with unsupervised machine learning, modeling the evolution of genes.
 
 ### Connect with me:
 
