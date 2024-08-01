@@ -50,3 +50,5 @@ Languages: English and Portuguese.
 
 - ### Bioinformatics
   - [SARS-coronavirus-3C-like-proteinase - Bioactivity Data Analysis](https://github.com/danielepolotow/SARS-coronavirus-3C-like-proteinase): In this project, I’m going to explore the ChEMBL database and analyse data related to SARS coronavirus 3C-like proteinase. I selected molecules with the same bioactivity unit types (in this case = standard_type="IC50"), or 50% inhibition of the target protein. Then, labeled compounds as either being active, inactive, or intermediate. After that, I calculated the Lipinski descriptors (Absorption, Distribution, Metabolism and Excretion (ADME) that are also known as the pharmacokinetic profile). Finally, I used a function to test if the active and inactive molecules have a significant distributional difference.
+ 
+
